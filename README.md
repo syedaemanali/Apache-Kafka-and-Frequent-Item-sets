@@ -35,7 +35,19 @@ Consumer Implementations:
     -> Accepts user input for liked products, asks user to products purchased by him and generates recommendations accordingly.
     -> Displays recommendations in a user-friendly format.
 
-Clustering on MS Azure:
+Kafka Clusters on MS Azure:
 -> Created Apache Kafka clusters to manage producer and consumer tasks efficiently.
--> Utilized Kafka clusters to handle large datasets easily.
--> MS Azure was utilised to form Kafka Clusters in order to run producer and consumers.
+-> Utilized Kafka clusters to handle large datasets.
+-> MS Azure was utilised to form Kafka clusters and run producer and consumers.
+
+MongoDB:
+-> We created a database on mongoDB to write and store data, the following credentials can be used to access the created Database:
+
+Database Name: Assosiation_Rules
+Collectin_Name: Rules
+Localhost:27017
+
+
+
+
+
