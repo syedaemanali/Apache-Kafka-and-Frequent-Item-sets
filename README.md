@@ -34,3 +34,8 @@ Consumer Implementations:
     -> Utilizes graph analysis for personalized recommendations.
     -> Accepts user input for liked products, asks user to products purchased by him and generates recommendations accordingly.
     -> Displays recommendations in a user-friendly format.
+
+Clustering on MS Azure:
+-> Created Apache Kafka clusters to manage producer and consumer tasks efficiently.
+-> Utilized Kafka clusters to handle large datasets easily.
+-> MS Azure was utilised to form Kafka Clusters in order to run producer and consumers.
