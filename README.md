@@ -1,8 +1,8 @@
 # Apache-Kafka-and-Frequent-Item-sets
 
-Fundamentals of Big Data Analytics (DS2004)
-Assignment #3
-Assignment Topic: Streaming Data Insights
+Recomendation System for Amazon
+
+Topic: Streaming Data Insights
 Title: Frequent Itemset Analysis on Amazon
 
 Group Members:
