@@ -6,9 +6,9 @@ Topic: Streaming Data Insights
 Title: Frequent Itemset Analysis on Amazon
 
 Group Members:
-Syeda Eman Ali (Roll Number: i221936)
-Aliza Saadi (Roll Number: i221871)
-Vanya Shafiq (Roll Number: i221953)
+Syeda Eman Ali (Roll Number:  i221936)
+Aliza Saadi (Roll Number:  i221871)
+Vanya Shafiq (Roll Number:  i221953)
 
 
 Producer Implementation:
